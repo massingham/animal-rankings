@@ -1,4 +1,4 @@
 animal-rankings
 ===============
 
-My Animal Rankings side.
+My Animal Rankings site.
